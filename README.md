@@ -1,9 +1,9 @@
 ### Hi there, I'm Adel 👋
 
-I'm an Applied AI & ML Engineer with a background in robotics and control engineering. My work centers on multimodal deep learning and sensor fusion — combining vision, audio, time-series, and sensor data (RGB, thermal, depth, LiDAR, wearables) — for human activity recognition, human-robot interaction, and healthcare applications. I work across the full ML pipeline: data collection, sensor fusion, model training and evaluation, and real-world deployment.
+I'm an Applied AI & ML Engineer. My work centers on multimodal deep learning and sensor fusion — combining vision, audio, time-series, and sensor data (RGB, thermal, depth, LiDAR, wearables) — for human activity recognition, human-robot interaction, and healthcare applications. I work across the full ML pipeline: data collection, model training and evaluation, and real-world deployment.
 
-- 🎓 PhD in Informatics (AI) — multimodal sensing and sensor fusion for privacy-preserving human activity recognition around care robots.
-- ⚙️ Background in robotics and control engineering — real-time embedded control, hardware-in-the-loop testing, and sensor fusion (EKF/UKF) for dynamic systems.
+- 🎓 PhD in Informatics (AI) — multimodal deep learning and sensor fusion for privacy-preserving human activity recognition around care robots.
+- 🧠 Focus areas: computer vision, multimodal deep learning, and LLMs/VLMs, applied across healthcare, sports science, and human-robot interaction.
 - 🔬 Currently at RITMO Centre, applying deep learning across vision, audio, and time-series data for psychology, sports science, and healthcare research.
 - 💼 Full project portfolio: **[adelbaseli.github.io](https://adelbaseli.github.io)**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adel-baselizadeh-779719b1/)
